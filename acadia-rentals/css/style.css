@@ -45,3 +45,30 @@ b {
 
 .hidden {
   display: none; }
+
+/* ----------- Colors ---------------------------------- */
+/* ----------- end Colors ----------- */
+/* ----------- Typography ------------------------------- */
+i.fa-pull-left {
+  float: left;
+  padding-right: 5px; }
+
+i.fa-pull-right {
+  float: right;
+  padding-left: 5px; }
+
+.ea-title {
+  font-style: italic;
+  font-weight: bold; }
+
+#menu-ea-main-menu > li > a {
+  font-family: Buenard;
+  font-size: 18px;
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: bold; }
+
+.ea-cat-hide-image .listing-categories-card-image {
+  display: none; }
+
+/* ----------- end typography ----------- */

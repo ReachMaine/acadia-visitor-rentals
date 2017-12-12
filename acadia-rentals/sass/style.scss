@@ -30,3 +30,7 @@ b                   { font-weight: bold; }
 .sticky             { }
 .gallery-caption    { }
 .bypostauthor       { }
+
+//@import "partials/basics";
+@import "partials/colors";
+@import "partials/typography";
